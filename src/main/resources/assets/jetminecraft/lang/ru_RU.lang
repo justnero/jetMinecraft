@@ -1,0 +1,23 @@
+menu.title=Меню
+menu.site=Сайт
+menu.forum=Форум
+menu.vk=ВКонтакте
+menu.developer=Разработчик
+
+direction.title=§9Направление: %s
+direction.south=Юг
+direction.west=Запад
+direction.north=Север
+direction.east=Восток
+
+protect.debug.protects=§6Протекты
+protect.debug.set=!§f - §6Установить §e/rset
+protect.debug.add=!§f - §6Добавить жителя §e/radd ник
+protect.debug.delete=!§f - §6Удалить жителя §e/rdel ник
+protect.debug.info=!§f - §6Информация о протекте §e/rinfo
+protect.debug.remove=!§f - §6Удалить §e/rrem
+protect.debug.toggle=!§f - §6Включить/Выключить показ протектов - §e%s
+protect.locked=§f - §4Протекты ещё не загрузились. Подождите немного, если не помогает перезайдите.
+
+key.jet.display=Отображение протектов
+key.categories.jet=jetMinecraft

@@ -1,0 +1,23 @@
+menu.title=Menu
+menu.site=Site
+menu.forum=Forum
+menu.vk=VK
+menu.developer=Developer
+
+direction.title=§9Direction: %s
+direction.south=South
+direction.west=West
+direction.north=North
+direction.east=East
+
+protect.debug.protects=§6Protects
+protect.debug.set=!§f - §6Set up §e/rset
+protect.debug.add=!§f - §6Add member §e/radd name
+protect.debug.delete=!§f - §6Delete member §e/rdel name
+protect.debug.info=!§f - §6Protect info §e/rinfo
+protect.debug.remove=!§f - §6Remove §e/rrem
+protect.debug.toggle=!§f - §6Toggle protect display on/off - §e%s
+protect.locked=§f - §4Protects are not loaded yet. Wait or try to reconnect.
+
+key.categories.jet=jetMinecraft
+key.jet.display=Protects display
